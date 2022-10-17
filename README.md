@@ -45,4 +45,5 @@ first push
 修复如果没有填写`SERVERCHAN_SECRETKEY`，会在正常签到后报错的问题。  
 现在没有`SERVERCHAN_SECRETKEY`也可以正常签到并不报错。
 
-2022.07.21 09:15
+2022.10.17 14:42
+                 
